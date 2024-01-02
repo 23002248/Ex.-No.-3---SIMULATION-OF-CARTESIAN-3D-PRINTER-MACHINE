@@ -62,7 +62,7 @@
 ![image](![Screenshot 2023-11-22 081508](https://github.com/23002248/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151701774/af9a827e-b836-4c7b-9fb4-cdb6037fc6eb)
 )
 ### Name:stephen raj 
-### Register Number:23002248
+### Register Number:212223230217
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
